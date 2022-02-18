@@ -1,0 +1,35 @@
+{
+  "name": "responsive-fashion-landing-page",
+  "version": "2.0.0",
+  "description": "Responsive Fashion Landing Page Hero Section - Template",
+  "source": "src/index.html",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiadV/Responsive-Fashion-Landing-Page.git"
+  },
+  "keywords": [
+    "landing page template",
+    "html template"
+  ],
+  "author": {
+    "name": "Miad V",
+    "email": "miadv.biz@gmail.com",
+    "url": "http://miadv.dev/"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiadV/Responsive-Fashion-Landing-Page/issues"
+  },
+  "homepage": "https://github.com/MiadV/Responsive-Fashion-Landing-Page#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "sass": "^1.49.8",
+    "vite": "^2.8.0"
+  }
+}

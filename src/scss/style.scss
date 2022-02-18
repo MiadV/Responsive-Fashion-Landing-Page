@@ -1,5 +1,5 @@
 /*----------  GOOGLE FONTS  ----------*/
-@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;700;900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;700;900&display=swap');
 /*----------  VARIABLES  ----------*/
 :root {
   /*----------  COLORS   ----------*/
@@ -17,8 +17,8 @@
   --sp-2xl: 3rem;
   --sp-3xl: 4rem;
   /*----------  TYPOGRAPHY  ----------*/
-  --font-family-brand: "Raleway", sans-serif;
-  --font-family: "Roboto", sans-serif;
+  --font-family-brand: 'Raleway', sans-serif;
+  --font-family: 'Roboto', sans-serif;
   --fs-2xl: 3rem;
   --fs-xl: 2rem; /* 32px */
   --fs-lg: 1.5rem; /* 24px */
@@ -181,7 +181,7 @@ img {
           margin-bottom: var(--sp-xs);
 
           &::after {
-            content: "";
+            content: '';
             position: absolute;
             right: 0;
             top: 0;
