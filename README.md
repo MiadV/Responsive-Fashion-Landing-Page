@@ -11,7 +11,10 @@
 
 Join my youtube channel to see more videos like this. [Youtube Channel](https://www.youtube.com/c/MiadVosoughi)
 
-![](/preview.png)
+[**👉View Live**](https://tzvfv6.csb.app/)
+<br/>
+
+![Fashion Landing Page Hero](/preview.png)
 
 ### Development
 
